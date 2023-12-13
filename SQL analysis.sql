@@ -158,3 +158,5 @@ a.rank = 1
 4. App Descriptions lengths have a positive correlation with user ratings. Users appreciate having a clear understandings of the apps capabilities and features. Hence Descriptions have to be detailed and well crafted.
 5. A new app should aim for an average rating above 3.5
 6. Games and Entertainment genres have a very high volume of apps suggesting saturation. Hence entering these genres may be challenging due to high competition. However, it also suggests high user demand in these genres.
+
+

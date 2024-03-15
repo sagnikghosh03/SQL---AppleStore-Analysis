@@ -149,6 +149,7 @@ a.rank = 1
 
 --This will help in taking inspiration from the top apps of each category
 
+/*
 
 **RECOMMENDATIONS**
 
@@ -159,4 +160,4 @@ a.rank = 1
 5. A new app should aim for an average rating above 3.5
 6. Games and Entertainment genres have a very high volume of apps suggesting saturation. Hence entering these genres may be challenging due to high competition. However, it also suggests high user demand in these genres.
 
-
+*/
